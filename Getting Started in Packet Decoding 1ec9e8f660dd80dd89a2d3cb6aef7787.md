@@ -1,10 +1,8 @@
-# Getting Started in Packet Decoding
+# Getting Started in Packet Decoding with Chris Brenton
 
 # Day 1
 
 [https://blackhillsinfosec.zoom.us/rec/share/VCTW3MQRp50WOYI4X6a-dlFbmv7_gCP_wW72TV20HdyDGGDTyRJBr-oYl9DcbaCm.QZ6wyVjie3qIjfEU](https://blackhillsinfosec.zoom.us/rec/share/VCTW3MQRp50WOYI4X6a-dlFbmv7_gCP_wW72TV20HdyDGGDTyRJBr-oYl9DcbaCm.QZ6wyVjie3qIjfEU)
-
----
 
 ### Packet Decoding and Class Schedule
 
@@ -41,8 +39,6 @@
 # Day 2
 
 [https://blackhillsinfosec.zoom.us/rec/share/vKOl3GCPzhcT3FdIiahLyTWWOATMJ3h6Hu6KBN7To_9xO2ebbiCyu7X4ooJWo-Y.lhLqxJYHlYhvoC7K](https://blackhillsinfosec.zoom.us/rec/share/vKOl3GCPzhcT3FdIiahLyTWWOATMJ3h6Hu6KBN7To_9xO2ebbiCyu7X4ooJWo-Y.lhLqxJYHlYhvoC7K)
-
----
 
 ## IP Fragmentation and Security Implications
 
@@ -88,8 +84,6 @@
 
 [https://blackhillsinfosec.zoom.us/rec/share/UY7xX_eAkCr_9CfwL7iK2C5IvcokySdUFy9p-HQoNAX1297G1dhE8Pk5Jm78hT8y.Zr1hltFxUsPHU3dn](https://blackhillsinfosec.zoom.us/rec/share/UY7xX_eAkCr_9CfwL7iK2C5IvcokySdUFy9p-HQoNAX1297G1dhE8Pk5Jm78hT8y.Zr1hltFxUsPHU3dn)
 
----
-
 ## Network Traffic Analysis and Security
 
 - In the meeting, Chris discussed the importance of summarizing reports to get quick responses and attention. He emphasized the need to prioritize tasks and focus on the main points. Chris also discussed the process of packet decoding, highlighting the importance of identifying anomalies and understanding the underlying issues. He demonstrated how to use Wireshark and Tshark to analyze network traffic and identify potential security threats. The team also discussed the challenges of detecting unusual network activity and the importance of understanding the context of the data.
@@ -117,8 +111,6 @@
 # Day 4
 
 [https://blackhillsinfosec.zoom.us/rec/share/jQZZcyGiAbrDrpS44FtmhoMpjIrau14B5QJQophxzkpG_IguO2anrfGdgScwqRH4.suSjZJScKGxKcfzw](https://blackhillsinfosec.zoom.us/rec/share/jQZZcyGiAbrDrpS44FtmhoMpjIrau14B5QJQophxzkpG_IguO2anrfGdgScwqRH4.suSjZJScKGxKcfzw)
-
----
 
 ## TCP Connection States and Optimization
 
@@ -511,7 +503,7 @@ Ethernet Header → IP Header → Transport Header → App Header → Payload �
 
 ---
 
-## 🧠 Quick Quiz
+## Quick Quiz
 
 ### **Question 1**
 
@@ -563,7 +555,7 @@ You observe TCP packets with the following characteristics: correct destination 
 
 ---
 
-## 💡 Additional Study Resources
+## Additional Study Resources
 
 ### **Recommended Practice Labs**
 
